@@ -1,3 +1,10 @@
+# ---------------------------------------------------------
+# Projeto: Automated Exchange Pipeline
+# Script: carga_incremental.py
+# Função: Carga incremental e monitoramento diário (Upsert)
+# Destaque: Implementação de logs e lógica de integridade SQL
+# Autor: Gabriel Braga (Analista de TI)
+# ---------------------------------------------------------
 import requests # EXTRAI
 import pandas as pd # TRANSFORMA 
 from sqlalchemy import create_engine, text, types # CARREGA
