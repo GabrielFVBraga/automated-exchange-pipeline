@@ -2,11 +2,9 @@
 # PROJETO: Automated Exchange Pipeline (USD/EUR)
 # SCRIPT:  carga_historica.py
 # DESCRIÇÃO: Processo de extração e carga de dados históricos (últimos 360 dias)
-#            via AwesomeAPI. Responsável pelo "Bootstrap" do banco de dados.
-#
+# via AwesomeAPI. Responsável pelo "Bootstrap" do banco de dados.
 # REQUISITOS: Python 3.11+, Pandas, SQLAlchemy, PyODBC
 # AMBIENTE: Desenvolvido e validado para MS SQL Server
-#
 # AUTOR: Gabriel Braga (Analista de TI / Graduado em ADS)
 # DATA: 29/04/2026
 # -----------------------------------------------------------------------------
