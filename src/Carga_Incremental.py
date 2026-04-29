@@ -3,7 +3,8 @@
 # Script: carga_incremental.py
 # Função: Carga incremental e monitoramento diário (Upsert)
 # Destaque: Implementação de logs e lógica de integridade SQL
-# Autor: Gabriel Braga (Analista de TI)
+# AUTOR: Gabriel Braga (Analista de TI / Graduado em ADS)
+# DATA: 29/04/2026
 # ---------------------------------------------------------
 import requests # EXTRAI
 import pandas as pd # TRANSFORMA 
